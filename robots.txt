@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://caleb210.github.io/generador-nombres/sitemap.xml
